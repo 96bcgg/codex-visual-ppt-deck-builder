@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">四层落地结构</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">知识库要按使用链路搭，而不是按文件夹分类搭。</tspan></text>
+<rect x="100" y="220" width="1080" height="56" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="8"/>
+<text x="128" y="250" font-family="Aptos" font-size="21" font-weight="700" fill="#17202A"><tspan x="128" dy="0">入口层</tspan></text>
+<text x="360" y="250" font-family="Aptos" font-size="20" font-weight="400" fill="#6B7280"><tspan x="360" dy="0">统一搜索、场景目录、最近更新，让任务开始前 30 秒内能定位文档</tspan></text>
+<rect x="100" y="302" width="1080" height="56" fill="#F7F4EF" stroke="#E76F51" stroke-width="2" rx="8"/>
+<text x="128" y="332" font-family="Aptos" font-size="21" font-weight="700" fill="#17202A"><tspan x="128" dy="0">内容层</tspan></text>
+<text x="360" y="332" font-family="Aptos" font-size="20" font-weight="400" fill="#6B7280"><tspan x="360" dy="0">入职路径、排障手册、评审清单、客户 FAQ，全部按任务而不是按部门命</tspan><tspan x="360" dy="27">名</tspan></text>
+<rect x="100" y="384" width="1080" height="56" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="8"/>
+<text x="128" y="414" font-family="Aptos" font-size="21" font-weight="700" fill="#17202A"><tspan x="128" dy="0">治理层</tspan></text>
+<text x="360" y="414" font-family="Aptos" font-size="20" font-weight="400" fill="#6B7280"><tspan x="360" dy="0">每篇文档有责任人、更新周期和过期提醒，过期内容不能继续出现在搜索首</tspan><tspan x="360" dy="27">页</tspan></text>
+<rect x="100" y="466" width="1080" height="56" fill="#F7F4EF" stroke="#E76F51" stroke-width="2" rx="8"/>
+<text x="128" y="496" font-family="Aptos" font-size="21" font-weight="700" fill="#17202A"><tspan x="128" dy="0">使用层</tspan></text>
+<text x="360" y="496" font-family="Aptos" font-size="20" font-weight="400" fill="#6B7280"><tspan x="360" dy="0">周会引用、新人任务、客服转知识，把文档使用变成工作流而不是额外动作</tspan></text>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">内部架构假设，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">3/8</text>
+</svg>

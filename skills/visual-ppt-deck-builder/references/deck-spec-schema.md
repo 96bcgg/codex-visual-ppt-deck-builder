@@ -41,9 +41,17 @@
   "layout": "title",
   "title": "主标题",
   "subtitle": "副标题",
-  "kicker": "视觉化交付系统"
+  "kicker": "视觉化交付系统",
+  "panel_steps": [
+    {"label": "01", "title": "盘点现状"},
+    {"label": "02", "title": "重建入口"},
+    {"label": "03", "title": "补齐内容"},
+    {"label": "04", "title": "验收推广"}
+  ]
 }
 ```
+
+`panel_steps` 可选，最多 4 项，用于替换标题页右侧默认流程。不写时保持原来的“确定主题 / 选择风格 / 生成素材 / 交付文件”。
 
 ### content
 

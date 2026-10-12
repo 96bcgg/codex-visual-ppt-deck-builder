@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">内部知识库 30 天升级计划</tspan></text>
+
+<rect x="760" y="96" width="390" height="470" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="12"/>
+<text x="804" y="170" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A">01 盘点现状</text>
+<text x="804" y="240" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A">02 重建入口</text>
+<text x="804" y="310" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A">03 补齐内容</text>
+<text x="804" y="380" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A">04 验收推广</text>
+<text x="804" y="510" font-family="Aptos" font-size="24" font-weight="700" fill="#1F8A70"><tspan x="804" dy="0">先收口高频场景，再谈平台化</tspan></text>
+
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">1/8</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">风险与下一步</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">下一步不是选更多工具，而是先把盘点表、责任人和 12 篇 SOP 做成可验收项目。</tspan></text>
+<text x="100" y="235" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A">主要风险</text>
+<rect x="105" y="282" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="133" y="300" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="133" dy="0">只搬家不治理，旧文档换了入口仍然过期</tspan></text>
+<rect x="105" y="340" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="133" y="358" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="133" dy="0">没有唯一责任人，更新提醒无法落地</tspan></text>
+<rect x="105" y="398" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="133" y="416" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="133" dy="0">搜索词和文档标题对不上，看起来有库，用起来仍要问</tspan><tspan x="133" dy="30">人</tspan></text>
+<text x="700" y="235" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A">下一步动作</text>
+<rect x="705" y="282" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="733" y="300" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="733" dy="0">指定 1 名知识运营作为唯一对接人</tspan></text>
+<rect x="705" y="340" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="733" y="358" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="733" dy="0">冻结入职、排障、评审 3 个场景作为试点</tspan></text>
+<rect x="705" y="398" width="12" height="12" fill="#E76F51" rx="6"/>
+<text x="733" y="416" font-family="Aptos" font-size="22" font-weight="400" fill="#17202A"><tspan x="733" dy="0">本周五完成 Top 20 问题盘点表和责任人名单</tspan></text>
+<line x1="640" y1="220" x2="640" y2="555" stroke="#1F8A70" stroke-width="3" opacity="0.45"/>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">项目治理清单，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">7/8</text>
+</svg>

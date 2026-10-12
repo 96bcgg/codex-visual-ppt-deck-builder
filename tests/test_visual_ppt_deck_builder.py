@@ -53,6 +53,12 @@ class visual_ppt_deck_builder_tests(unittest.TestCase):
                                 "layout": "title",
                                 "title": "AI 视觉素材生产线",
                                 "subtitle": "先定主题，再定风格，最后交付 PPTX",
+                                "panel_steps": [
+                                    {"label": "01", "title": "确认主题"},
+                                    {"label": "02", "title": "确认风格"},
+                                    {"label": "03", "title": "生成页面"},
+                                    {"label": "04", "title": "验收交付"},
+                                ],
                             },
                             {
                                 "layout": "image_text",
@@ -120,6 +126,11 @@ class visual_ppt_deck_builder_tests(unittest.TestCase):
                 self.assertNotIn("<a:t>Topic</a:t>", slide_one_xml)
                 self.assertNotIn("<a:t>Style</a:t>", slide_one_xml)
                 self.assertNotIn("<a:t>Assets</a:t>", slide_one_xml)
+                self.assertIn("<a:t>确认主题</a:t>", slide_one_xml)
+                self.assertIn("<a:t>确认风格</a:t>", slide_one_xml)
+                self.assertIn("<a:t>生成页面</a:t>", slide_one_xml)
+                self.assertIn("<a:t>验收交付</a:t>", slide_one_xml)
+                self.assertNotIn("<a:t>确定主题</a:t>", slide_one_xml)
 
     def test_deck_spec_requires_slides(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
