@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">本周五先对齐盘点表</tspan></text>
+
+<rect x="720" y="180" width="420" height="360" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="100" y="250" font-family="Aptos" font-size="24" font-weight="400" fill="#6B7280"><tspan x="100" dy="0">先让 20 个高频问题找得到，再讨论知识平台化。</tspan></text>
+
+
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">8/8</text>
+</svg>

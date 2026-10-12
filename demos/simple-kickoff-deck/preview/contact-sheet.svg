@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="1486" viewBox="0 0 1220 1486">
+<rect x="0" y="0" width="1220" height="1486" fill="#FFFFFF"/>
+<text x="52" y="58" font-family="Aptos" font-size="32" font-weight="800" fill="#17202A">内部知识库 30 天升级计划 · 预览总览</text>
+<rect x="52" y="100" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="52" y="100" width="8" height="304" fill="#1F8A70"/>
+<text x="76" y="142" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">1. 内部知识库 30 天升级计划</text>
+<text x="76" y="178" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">title</text>
+
+<text x="76" y="345" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">面向团队负责人、内容运营和研发接口人的简易启动简报</text>
+<rect x="628" y="100" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="628" y="100" width="8" height="304" fill="#1F8A70"/>
+<text x="652" y="142" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">2. 一页结论</text>
+<text x="652" y="178" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">executive_summary</text>
+<text x="652" y="220" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">这次升级不是再堆一个文档仓库，而是把高频问题的检索、更新和责任人做…</text>
+<text x="652" y="345" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">内部项目启动口径，2026-10</text>
+<rect x="52" y="440" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="52" y="440" width="8" height="304" fill="#1F8A70"/>
+<text x="76" y="482" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">3. 四层落地结构</text>
+<text x="76" y="518" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">architecture</text>
+<text x="76" y="560" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">知识库要按使用链路搭，而不是按文件夹分类搭。</text>
+<text x="76" y="685" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">内部架构假设，2026-10</text>
+<rect x="628" y="440" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="628" y="440" width="8" height="304" fill="#1F8A70"/>
+<text x="652" y="482" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">4. 三种知识形态对比</text>
+<text x="652" y="518" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">comparison</text>
+<text x="652" y="560" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">问题不在“有没有文档”，而在文档能不能按任务被找到、被更新、被问责。</text>
+<text x="652" y="685" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">内部工作方式对比，2026-10</text>
+<rect x="52" y="780" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="52" y="780" width="8" height="304" fill="#1F8A70"/>
+<text x="76" y="822" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">5. 30 天验收口径</text>
+<text x="76" y="858" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">metrics</text>
+<text x="76" y="900" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">先用三个可观测指标判断升级是否值得继续投入，而不是看页面数量。</text>
+<text x="76" y="1025" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">示例测算模型，仅用于启动对齐，2026-10</text>
+<rect x="628" y="780" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="628" y="780" width="8" height="304" fill="#1F8A70"/>
+<text x="652" y="822" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">6. 30 天落地路线</text>
+<text x="652" y="858" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">roadmap</text>
+<text x="652" y="900" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">四周只做一件事：让 20 个高频问题找得到、更新得了、有人负责。</text>
+<text x="652" y="1025" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">项目计划假设，2026-10</text>
+<rect x="52" y="1120" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="52" y="1120" width="8" height="304" fill="#1F8A70"/>
+<text x="76" y="1162" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">7. 风险与下一步</text>
+<text x="76" y="1198" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">risk_next_steps</text>
+<text x="76" y="1240" font-family="Aptos" font-size="18" font-weight="700" fill="#17202A">下一步不是选更多工具，而是先把盘点表、责任人和 12 篇 SOP …</text>
+<text x="76" y="1365" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">项目治理清单，2026-10</text>
+<rect x="628" y="1120" width="540" height="304" fill="#F7F4EF" stroke="#CDD5DF" stroke-width="2" rx="10"/>
+<rect x="628" y="1120" width="8" height="304" fill="#1F8A70"/>
+<text x="652" y="1162" font-family="Aptos" font-size="24" font-weight="800" fill="#17202A">8. 本周五先对齐盘点表</text>
+<text x="652" y="1198" font-family="Aptos" font-size="15" font-weight="700" fill="#1F8A70">closing</text>
+
+<text x="652" y="1365" font-family="Aptos" font-size="14" font-weight="400" fill="#6B7280">先让 20 个高频问题找得到，再讨论知识平台化。</text>
+</svg>

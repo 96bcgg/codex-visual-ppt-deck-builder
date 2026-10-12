@@ -245,12 +245,32 @@ function render_reference_anime_slide_svg(slide, theme, index, total, spec_dir) 
 function render_slide_body(slide, theme) {
   const layout = String(slide.layout || "content");
   if (layout === "title") {
+    const custom_panel_steps = Array.isArray(slide.panel_steps)
+      ? slide.panel_steps
+          .map((step, index) => [
+            String((step && (step.label || step[0])) || String(index + 1).padStart(2, "0")),
+            String((step && (step.title || step.body || step[1])) || ""),
+          ])
+          .filter((step) => step[1])
+          .slice(0, 4)
+      : [];
+    const panel_steps = custom_panel_steps.length
+      ? custom_panel_steps
+      : [
+          ["01", "确定主题"],
+          ["02", "选择风格"],
+          ["03", "生成素材"],
+          ["04", "交付文件"],
+        ];
     return [
       rect(760, 96, 390, 470, theme.panel, { stroke: theme.accent, radius: 12 }),
-      text(804, 170, "01 确定主题", { size: 26, weight: 700, color: theme.foreground }),
-      text(804, 240, "02 选择风格", { size: 26, weight: 700, color: theme.foreground }),
-      text(804, 310, "03 生成素材", { size: 26, weight: 700, color: theme.foreground }),
-      text(804, 380, "04 交付文件", { size: 26, weight: 700, color: theme.foreground }),
+      ...panel_steps.map((step, index) =>
+        text(804, 170 + index * 70, `${step[0]} ${step[1]}`, {
+          size: 26,
+          weight: 700,
+          color: theme.foreground,
+        })
+      ),
       wrapped_text(804, 510, slide.kicker || "视觉化交付系统", { size: 24, weight: 700, color: theme.accent, max_chars: 14, max_lines: 2 }),
     ].join("\n");
   }

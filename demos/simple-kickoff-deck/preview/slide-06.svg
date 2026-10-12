@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">30 天落地路线</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">四周只做一件事：让 20 个高频问题找得到、更新得了、有人负责。</tspan></text>
+<rect x="95" y="230" width="245" height="320" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="117" y="285" font-family="Aptos" font-size="20" font-weight="700" fill="#1F8A70"><tspan x="117" dy="0">第 1 周</tspan></text>
+<text x="117" y="340" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A"><tspan x="117" dy="0">盘点现状</tspan></text>
+<text x="117" y="420" font-family="Aptos" font-size="19" font-weight="400" fill="#6B7280"><tspan x="117" dy="0">列出 Top 20 高频问题</tspan><tspan x="117" dy="26">、现有文档缺口和责任人</tspan><tspan x="117" dy="26">空白，周五对齐盘点表。</tspan></text>
+<rect x="380" y="230" width="245" height="320" fill="#FFFFFF" stroke="#E76F51" stroke-width="2" rx="10"/>
+<text x="402" y="285" font-family="Aptos" font-size="20" font-weight="700" fill="#E76F51"><tspan x="402" dy="0">第 2 周</tspan></text>
+<text x="402" y="340" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A"><tspan x="402" dy="0">重建入口</tspan></text>
+<text x="402" y="420" font-family="Aptos" font-size="19" font-weight="400" fill="#6B7280"><tspan x="402" dy="0">上线搜索、场景目录、责</tspan><tspan x="402" dy="26">任人和更新时间字段，先</tspan><tspan x="402" dy="26">打通四个场景入口。</tspan></text>
+<rect x="665" y="230" width="245" height="320" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="687" y="285" font-family="Aptos" font-size="20" font-weight="700" fill="#1F8A70"><tspan x="687" dy="0">第 3 周</tspan></text>
+<text x="687" y="340" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A"><tspan x="687" dy="0">补齐内容</tspan></text>
+<text x="687" y="420" font-family="Aptos" font-size="19" font-weight="400" fill="#6B7280"><tspan x="687" dy="0">先写 12 篇高频 SOP，</tspan><tspan x="687" dy="26">每篇必须能支持一次真实</tspan><tspan x="687" dy="26">任务，而不是介绍性概述</tspan><tspan x="687" dy="26">。</tspan></text>
+<rect x="950" y="230" width="245" height="320" fill="#FFFFFF" stroke="#E76F51" stroke-width="2" rx="10"/>
+<text x="972" y="285" font-family="Aptos" font-size="20" font-weight="700" fill="#E76F51"><tspan x="972" dy="0">第 4 周</tspan></text>
+<text x="972" y="340" font-family="Aptos" font-size="26" font-weight="700" fill="#17202A"><tspan x="972" dy="0">验收推广</tspan></text>
+<text x="972" y="420" font-family="Aptos" font-size="19" font-weight="400" fill="#6B7280"><tspan x="972" dy="0">用真实工单和一次新人任</tspan><tspan x="972" dy="26">务验证检索成功率，再决</tspan><tspan x="972" dy="26">定是否扩大范围。</tspan></text>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">项目计划假设，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">6/8</text>
+</svg>

@@ -1752,12 +1752,23 @@ function add_title_slide(pptx, theme, slide_data, slide_index, total_slides) {
     line: { color: theme.accent, transparency: 45 },
     radius: 0.18,
   });
-  const panel_steps = [
-    ["01", "确定主题"],
-    ["02", "选择风格"],
-    ["03", "生成素材"],
-    ["04", "交付文件"],
-  ];
+  const custom_panel_steps = Array.isArray(slide_data.panel_steps)
+    ? slide_data.panel_steps
+        .map((step, index) => [
+          String((step && (step.label || step[0])) || String(index + 1).padStart(2, "0")),
+          String((step && (step.title || step.body || step[1])) || ""),
+        ])
+        .filter((step) => step[1])
+        .slice(0, 4)
+    : [];
+  const panel_steps = custom_panel_steps.length
+    ? custom_panel_steps
+    : [
+        ["01", "确定主题"],
+        ["02", "选择风格"],
+        ["03", "生成素材"],
+        ["04", "交付文件"],
+      ];
   panel_steps.forEach((step, index) => {
     const y_position = 1.35 + index * 0.83;
     slide.addShape("ellipse", {

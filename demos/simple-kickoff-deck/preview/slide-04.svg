@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">三种知识形态对比</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">问题不在“有没有文档”，而在文档能不能按任务被找到、被更新、被问责。</tspan></text>
+<rect x="95" y="230" width="330" height="300" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="123" y="300" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="123" dy="0">网盘堆文件</tspan></text>
+<text x="123" y="385" font-family="Aptos" font-size="21" font-weight="400" fill="#6B7280"><tspan x="123" dy="0">上传最快，但检索靠记忆，版本混</tspan><tspan x="123" dy="28">乱，新人几乎无法独立完成一次排</tspan><tspan x="123" dy="28">障。</tspan></text>
+<rect x="475" y="230" width="330" height="300" fill="#FFFFFF" stroke="#E76F51" stroke-width="2" rx="10"/>
+<text x="503" y="300" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="503" dy="0">无运营 Wiki</tspan></text>
+<text x="503" y="385" font-family="Aptos" font-size="21" font-weight="400" fill="#6B7280"><tspan x="503" dy="0">结构看起来完整，写完即过期；搜</tspan><tspan x="503" dy="28">索结果多，真正能用的少。</tspan></text>
+<rect x="855" y="230" width="330" height="300" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="883" y="300" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="883" dy="0">场景知识库</tspan></text>
+<text x="883" y="385" font-family="Aptos" font-size="21" font-weight="400" fill="#6B7280"><tspan x="883" dy="0">按任务检索，责任人可见，更新周</tspan><tspan x="883" dy="28">期可追踪，适合 30 天内做出可</tspan><tspan x="883" dy="28">验收结果。</tspan></text>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">内部工作方式对比，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">4/8</text>
+</svg>

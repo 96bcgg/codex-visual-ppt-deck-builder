@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">一页结论</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">这次升级不是再堆一个文档仓库，而是把高频问题的检索、更新和责任人做成可运营系统。</tspan></text>
+<rect x="90" y="230" width="320" height="300" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="118" y="285" font-family="Aptos" font-size="23" font-weight="700" fill="#1F8A70">01</text>
+<text x="118" y="345" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="118" dy="0">先收口场景</tspan></text>
+<text x="118" y="415" font-family="Aptos" font-size="22" font-weight="400" fill="#6B7280"><tspan x="118" dy="0">只覆盖入职、排障、评审、客户</tspan><tspan x="118" dy="30">问答四类高频任务，避免一上来</tspan><tspan x="118" dy="30">做成全量百科。</tspan></text>
+<rect x="470" y="230" width="320" height="300" fill="#FFFFFF" stroke="#E76F51" stroke-width="2" rx="10"/>
+<text x="498" y="285" font-family="Aptos" font-size="23" font-weight="700" fill="#E76F51">02</text>
+<text x="498" y="345" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="498" dy="0">再建单一入口</tspan></text>
+<text x="498" y="415" font-family="Aptos" font-size="22" font-weight="400" fill="#6B7280"><tspan x="498" dy="0">搜索、目录、责任人和更新时间</tspan><tspan x="498" dy="30">必须同时可见，找不到就等于没</tspan><tspan x="498" dy="30">交付。</tspan></text>
+<rect x="850" y="230" width="320" height="300" fill="#FFFFFF" stroke="#1F8A70" stroke-width="2" rx="10"/>
+<text x="878" y="285" font-family="Aptos" font-size="23" font-weight="700" fill="#1F8A70">03</text>
+<text x="878" y="345" font-family="Aptos" font-size="30" font-weight="700" fill="#17202A"><tspan x="878" dy="0">用指标验收</tspan></text>
+<text x="878" y="415" font-family="Aptos" font-size="22" font-weight="400" fill="#6B7280"><tspan x="878" dy="0">30 天内看检索成功率、关键文</tspan><tspan x="878" dy="30">档更新周期、重复提问是否下降</tspan><tspan x="878" dy="30">。</tspan></text>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">内部项目启动口径，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">2/8</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F7F4EF"/>
+<rect x="0" y="0" width="12" height="720" fill="#1F8A70"/>
+<text x="70" y="86" font-family="Microsoft YaHei" font-size="40" font-weight="800" fill="#17202A"><tspan x="70" dy="0">30 天验收口径</tspan></text>
+<text x="72" y="158" font-family="Microsoft YaHei" font-size="23" font-weight="700" fill="#1F8A70"><tspan x="72" dy="0">先用三个可观测指标判断升级是否值得继续投入，而不是看页面数量。</tspan></text>
+<text x="105" y="285" font-family="Aptos" font-size="46" font-weight="800" fill="#1F8A70">70%</text>
+<text x="105" y="335" font-family="Aptos" font-size="22" font-weight="700" fill="#17202A"><tspan x="105" dy="0">高频问题一次搜到</tspan></text>
+<text x="105" y="400" font-family="Aptos" font-size="18" font-weight="400" fill="#6B7280"><tspan x="105" dy="0">只统计入职、排障、评审、客户</tspan><tspan x="105" dy="24">问答四类真实提问。</tspan></text>
+<text x="390" y="285" font-family="Aptos" font-size="46" font-weight="800" fill="#E76F51">14天</text>
+<text x="390" y="335" font-family="Aptos" font-size="22" font-weight="700" fill="#17202A"><tspan x="390" dy="0">关键文档更新周期</tspan></text>
+<text x="390" y="400" font-family="Aptos" font-size="18" font-weight="400" fill="#6B7280"><tspan x="390" dy="0">Top 12 篇 SOP 必须有责任人</tspan><tspan x="390" dy="24">和下次更新日期。</tspan></text>
+<text x="675" y="285" font-family="Aptos" font-size="46" font-weight="800" fill="#1F8A70">-40%</text>
+<text x="675" y="335" font-family="Aptos" font-size="22" font-weight="700" fill="#17202A"><tspan x="675" dy="0">重复提问下降</tspan></text>
+<text x="675" y="400" font-family="Aptos" font-size="18" font-weight="400" fill="#6B7280"><tspan x="675" dy="0">对比升级前后两周的群消息和工</tspan><tspan x="675" dy="24">单重复问题。</tspan></text>
+<text x="960" y="285" font-family="Aptos" font-size="46" font-weight="800" fill="#E76F51">30天</text>
+<text x="960" y="335" font-family="Aptos" font-size="22" font-weight="700" fill="#17202A"><tspan x="960" dy="0">最小验收窗口</tspan></text>
+<text x="960" y="400" font-family="Aptos" font-size="18" font-weight="400" fill="#6B7280"><tspan x="960" dy="0">覆盖一次新人入职和一个完整排</tspan><tspan x="960" dy="24">障闭环。</tspan></text>
+<text x="72" y="680" font-family="Microsoft YaHei" font-size="13" font-weight="400" fill="#6B7280">示例测算模型，仅用于启动对齐，2026-10</text>
+<text x="1140" y="680" font-family="Microsoft YaHei" font-size="16" font-weight="400" fill="#6B7280">5/8</text>
+</svg>
